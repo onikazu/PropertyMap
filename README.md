@@ -1,4 +1,6 @@
 # PropertyMap
+This project is ongoing. not completed.
+
 ## Abstract
 PropertyMap is easy-to-understand system that visualizes the approximate price of rental properties in each region.
 
